@@ -18,7 +18,7 @@ This app is riding the wave of the viral **AI Voice Cloning Karaoke** trend that
 
 ## 🚀 Try It Live
 
-**Demo**: [Coming Soon - Deploying to Vercel]
+**Demo**: https://voice-cloning-karaoke.vercel.app
 
 ## 🛠️ Tech Stack
 
